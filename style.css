@@ -1,0 +1,20 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(10, 118, 80);
+    text-align: center;
+}
+
+body {
+    background-color: azure;
+}
+
+.link{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: rgb(10, 118, 80);
+
+}
+
+div{
+    text-align: center;
+}
