@@ -1,0 +1,26 @@
+ul{
+    color: rgb(9, 84, 9);
+}
+
+ol{
+    color: rgb(9, 84, 9);
+}
+
+h4{
+    color: rgb(9, 84, 9);
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: azure;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    list-style-position: inside;
+}
